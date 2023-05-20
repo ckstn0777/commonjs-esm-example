@@ -2,7 +2,7 @@
 
 ### 목적
 
-CommonJS와 ESM 차이 이해하기
+CommonJS와 ESM 차이를 Tree Shaking 관점에서 비교하기
 
 ### 참고
 
